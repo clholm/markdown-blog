@@ -26,7 +26,7 @@ simply copy [index.html](https://github.com/casualwriter/casual-markdown-page/bl
 * yyyy/mm/dd: [post-title](md-file) { #tags }
 ~~~
 
-index.md is also shown as tge HOME page of blog site. 
+index.md is also shown as the HOME page of blog site. 
 
 below is a sample setup from [Sample Blog: index.md](https://raw.githubusercontent.com/casualwriter/casual-markdown-blog/main/source/index.md)
 
